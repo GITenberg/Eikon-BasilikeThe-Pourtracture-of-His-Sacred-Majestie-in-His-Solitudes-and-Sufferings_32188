@@ -1,0 +1,41 @@
+_repo: Eikon-BasilikeThe-Pourtracture-of-His-Sacred-Majestie-in-His-Solitudes-and-Sufferings_32188
+_version: 0.1.0
+alternative_title: "Eikon Basilike\r\nThe portraiture of his sacred majesty in his\
+  \ solitudes and sufferings"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Gauden, John
+    alias: Gawden, John
+    birthdate: 1605
+    deathdate: 1662
+    gutenberg_agent_id: '35353'
+    url: http://www.gutenberg.org/2009/agents/35353
+    wikipedia: http://en.wikipedia.org/wiki/John_Gauden
+  - agent_name: Charles I, King of England
+    aliases:
+    - Stuart, Charles, King of England
+    - Charles I, King of Great Britain
+    birthdate: 1600
+    deathdate: 1649
+    gutenberg_agent_id: '35716'
+    url: http://www.gutenberg.org/2009/agents/35716
+description: Attributed to Charles I, also to John Gauden.
+gutenberg_issued: '2010-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Charles I, King of England, 1600-1649 -- Early works to 1800'
+- !lcsh 'Great Britain -- History -- Civil War, 1642-1649'
+title: 'Eikon Basilike
+
+  The Pourtracture of His Sacred Majestie, in His Solitudes and Sufferings'
+url: http://www.gutenberg.org/ebooks/32188
