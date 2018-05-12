@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '35716'
     url: http://www.gutenberg.org/2009/agents/35716
 description: Attributed to Charles I, also to John Gauden.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32188#Eikon-BasilikeThe-Pourtracture-of-His-Sacred-Majestie-in-His-Solitudes-and-Sufferings
 gutenberg_issued: '2010-04-30'
 gutenberg_type: Text
 identifiers:
